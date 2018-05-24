@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/cygdrive/c/Python32/python.exe
 
 """
 Check lesson files and their contents.
